@@ -4,10 +4,10 @@ mod-auth-active-directory
 
 Shinken module for UI authentification with Active Directory or OpenLDAP
 
-###Disclaimer
+### Disclaimer
 This documentation is taken from [shinken-webui-wiki](https://github.com/shinken-monitoring/mod-webui/wiki)
 
-##How to use
+## How to use
 
 This module allows to lookup passwords into both Active Directory or OpenLDAP entries.
 
